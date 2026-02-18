@@ -12,7 +12,7 @@ float getFloatValue() {
     float var_float = 10.75;
     return var_float;
 }
-
+//Syed Zaryab Haider
 char getCharValue() {
     // Declare a variable var_char of type character and set its value to A.
     char var_char = 'A';
